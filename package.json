@@ -1,0 +1,11 @@
+{
+  "name": "batabit",
+  "version": "1.0.0",
+  "description": "Batabit landing page",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emilio Argandoña <emilioargandona14@gmail.com>",
+  "license": "MIT"
+}

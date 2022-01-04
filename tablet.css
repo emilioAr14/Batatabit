@@ -1,0 +1,47 @@
+.batatabit-logo{
+    width: 25rem;
+    height: 4rem;
+}
+
+.main__tables{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.currency-table--container{
+    margin: 0;
+    opacity: 1 !important;
+}
+
+.commission-table--container{
+    position: static;
+    margin: 0;
+    opacity: 1 !important;
+}
+
+.scroll-button{
+    display: none;
+}
+
+.product-cards-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.main-wildcard__title{
+    font-size: 3rem;
+}
+
+.plans-container{
+    justify-content: center;
+    height: 35rem;
+    overflow-x: hidden;
+}
+
+.plan-card{
+    margin: auto 10px;
+}
+
+.footer-logo{
+    width: 10rem;
+}
